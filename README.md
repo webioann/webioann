@@ -1,6 +1,6 @@
 # Hi , i am Webioann.
 ## I am junior React developer from Ukraine.<br/>
- ![Tux, the Linux mascot](/assets/react50.png)<br>
+ ![Tux, the Linux mascot](/assets/1.png)<br>
 I use in my progects:
 * React with Redux
 * librarys :  Redux, React-Router
