@@ -17,12 +17,13 @@ I use in my progects:
 ![sass](/assets/sass.jpg)
 ![git](/assets/git.jpg)
 ![github](/assets/github.jpg)
+![webpack](/assets/webpack.jpg)
 ![bootstrap](/assets/bootstrap.jpg)
 ![html](/assets/html.jpg)
 ![css](/assets/css.jpg)
 
 <br>
 
-
+ 
 
 
