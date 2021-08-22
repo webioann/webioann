@@ -5,8 +5,6 @@ I use in my progects:
 * librarys :  Redux, React-Router
 * React-hooks
 * SASS , Bootstrap , own CSS-framework "Total"
-
-Work remotely
 ## Soft skills:
 * hardworking
 * plodding
@@ -16,14 +14,14 @@ Work remotely
 ![react](/assets/react.jpg)
 ![js](/assets/js.jpg)
 ![redux](/assets/redux.jpg)
-![html](/assets/html.jpg)
-![css](/assets/css.jpg)
 ![sass](/assets/sass.jpg)
 ![git](/assets/git.jpg)
 ![github](/assets/github.jpg)
 ![bootstrap](/assets/bootstrap.jpg)
-<br>
+![html](/assets/html.jpg)
+![css](/assets/css.jpg)
 
+<br>
 
 
 
