@@ -23,9 +23,6 @@ I use in my progects:
 ![css](/assets/css.jpg)
 ![markdown](/assets/markdown.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=radical)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img alight="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=radical"/>
+<img alight="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=radical"/>
