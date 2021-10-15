@@ -1,7 +1,9 @@
 ## Hi , i am Webioann , junior React developer from Ukraine.
 [![LinkedIn](https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white?color=red)](https://www.linkedin.com/in/alexander-veles)
 ![Email](https://img.shields.io/badge/ioannn7777@gmail.com-%230077B5.svg?style=flat&logo=gmail&logoColor=white?color=red)
-![Viber](https://img.shields.io/badge/+38_(096)_842_25_72-%230077B5.svg?style=flat&logo=viber&logoColor=green)
+![Viber](https://img.shields.io/badge/+38_(096)_842_25_72-%8B66A9.svg?style=flat&logo=viber&logoColor=green)
+
+<img src="./assets/github-bg.jpg"/>
 
 ### I use in my progects:
 * React with Redux, JavaScript,SCSS
@@ -28,13 +30,14 @@
 ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-%23323330.svg?style=flat&logo=npm&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)
 ![photoshop](https://img.shields.io/badge/adobephotoshop-green.svg?style=flat&logo=adobephotoshop&logoColor=white)
-
-<img align="left" width="47.8%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
-<img align="left"  width="47%" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+<!-- <img align="left" width="47.8%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
+<img align="left"  width="47%" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/> -->
 
 
 
