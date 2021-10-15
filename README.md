@@ -9,10 +9,9 @@ I use in my progects:
 * hardworking
 * plodding
 * meticulous
-* love studying<br>
+* love studying
 
-        
-    <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -32,12 +31,11 @@ I use in my progects:
 <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
-##        
-
-<img align="left" width="25.4%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
-<img align="left"  width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/>
-
-
+<br>
+<div style="display: flex; width: 100%">
+    <img align="left" width="25.4%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
+    <img align="left"  width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/>
+<div/>
 
 
 
