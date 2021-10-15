@@ -1,3 +1,4 @@
+<!-- <link href="./style.css" rel="stylesheet"></link> -->
 # Hi , i am Webioann.
 ## I am junior React developer from Ukraine.<br/>
 I use in my progects:
@@ -6,15 +7,12 @@ I use in my progects:
 * React-hooks
 * SASS , Bootstrap , own CSS-framework "Total"
 ## Soft skills:
-----
 * hardworking
 * plodding
 * meticulous
 * love studying
 
-----
-
-<div style="width: 100%; padding-top: 20px;">
+<div class="ff" style="width: 100%; padding-top: 20px;">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -25,7 +23,7 @@ I use in my progects:
 
 <div>
 
-<div style="width: 100%; padding-top: 150px;">
+<div class="cc" style="width: 100%; padding-top: 150px;">
     <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img  src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
@@ -39,8 +37,8 @@ I use in my progects:
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <div>
 <div style="display: flex; width: 100%; padding-top: 20px;">
-    <img align="left" width="25.4%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
-    <img align="left"  width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/>
+    <img align="left" width="47.8%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
+    <img align="left"  width="47%" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/>
 <div>
 
 
