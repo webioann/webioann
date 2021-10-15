@@ -1,5 +1,5 @@
 <!-- <link href="./style.css" rel="stylesheet"></link> -->
-# Hi , i am Webioann , junior React developer from Ukraine..
+# Hi , i am Webioann , junior React developer from Ukraine.
 ### I use in my progects:
 * React with Redux
 * librarys :  Redux, React-Router
