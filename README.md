@@ -24,5 +24,5 @@ I use in my progects:
 ![markdown](/assets/markdown.jpg)
 
 
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=radical"/>
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=radical"/>
+<img align="left" width="25.4%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=default"/>
+<img align="left"  width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=default"/>
