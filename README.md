@@ -1,4 +1,3 @@
-<!-- <link href="./style.css" rel="stylesheet"></link> -->
 ## Hi , i am Webioann , junior React developer from Ukraine.
 ### I use in my progects:
 * React with Redux, JavaScript,SCSS
