@@ -25,7 +25,7 @@ I use in my progects:
 
 <div>
 
-<div style="width: 100%; padding-top: 50px;">
+<div style="width: 100%; padding-top: 150px;">
     <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img  src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
@@ -38,9 +38,6 @@ I use in my progects:
     <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <div>
-
-----
-
 <div style="display: flex; width: 100%; padding-top: 20px;">
     <img align="left" width="25.4%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
     <img align="left"  width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/>
