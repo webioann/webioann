@@ -1,7 +1,7 @@
 <!-- <link href="./style.css" rel="stylesheet"></link> -->
 ## Hi , i am Webioann , junior React developer from Ukraine.
 ### I use in my progects:
-* React with Redux, JavaScript
+* React with Redux, JavaScript,SCSS
 * librarys :  Redux, React-Router
 * React-hooks
 * SASS , Bootstrap , own CSS-framework "Total"
