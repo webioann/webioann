@@ -1,4 +1,5 @@
 ## Hi , i am Webioann , junior React developer from Ukraine.
+![Twitter URL](https://img.shields.io/twitter/url?color=green&label=alexander-veles&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-veles%2F)
 ### I use in my progects:
 * React with Redux, JavaScript,SCSS
 * librarys :  Redux, React-Router
@@ -9,6 +10,11 @@
 * plodding
 * meticulous
 * love studying
+
+![GitHub repo size](https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub)
+![GitHub watchers](https://img.shields.io/github/watchers/webioann/webioann?color=red&logo=GitHub)
+
+
 
 <div style="width: 100%; padding-top: 20px;">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"/>
@@ -31,7 +37,6 @@
     <img  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img  src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white"/>
-    <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <div/>
 <div style="display: flex; width: 100%; padding-top: 20px;">
