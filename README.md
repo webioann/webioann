@@ -25,7 +25,7 @@ I use in my progects:
 
 <div>
 
-<div style="width: 100%; padding-top: 20px;">
+<div style="width: 100%; padding-top: 50px;">
     <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img  src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
