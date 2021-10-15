@@ -1,12 +1,11 @@
 <!-- <link href="./style.css" rel="stylesheet"></link> -->
-# Hi , i am Webioann.
-## I am junior React developer from Ukraine.<br/>
-I use in my progects:
+# Hi , i am Webioann , junior React developer from Ukraine..
+### I use in my progects:
 * React with Redux
 * librarys :  Redux, React-Router
 * React-hooks
 * SASS , Bootstrap , own CSS-framework "Total"
-## Soft skills:
+### Soft skills:
 * hardworking
 * plodding
 * meticulous
