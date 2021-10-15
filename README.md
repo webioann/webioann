@@ -14,7 +14,7 @@ I use in my progects:
         
     <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
