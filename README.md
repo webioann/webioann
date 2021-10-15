@@ -21,7 +21,7 @@ I use in my progects:
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-<div>
+<div/>
 
 <div class="cc" style="width: 100%; padding-top: 150px; line-height: 5rem">
     <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,11 +35,11 @@ I use in my progects:
     <img  src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white"/>
     <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<div>
+<div/>
 <div style="display: flex; width: 100%; padding-top: 20px;">
     <img align="left" width="47.8%" src="https://github-readme-stats.vercel.app/api?username=webioann&show_icons=true&theme=github_dark"/>
     <img align="left"  width="47%" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webioann&layout=compact&theme=github_dark"/>
-<div>
+<div/>
 
 
 
