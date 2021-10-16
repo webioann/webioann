@@ -1,5 +1,7 @@
 ## Hi , i am Webioann , junior React developer from Ukraine.
-[![LinkedIn](https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white?color=red)](https://www.linkedin.com/in/alexander-veles)
+
+[![LinkedIn](https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/alexander-veles/target="_blank")
+
 ![Email](https://img.shields.io/badge/ioannn7777@gmail.com-%230077B5.svg?style=flat&logo=gmail&logoColor=white?color=red)
 ![Viber](https://img.shields.io/badge/+38_(096)_842_25_72-%8B66A9.svg?style=flat&logo=viber&logoColor=green)
 
