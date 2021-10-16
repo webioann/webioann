@@ -4,6 +4,10 @@
 ![Email](https://img.shields.io/badge/ioannn7777@gmail.com-%230077B5.svg?style=flat&logo=gmail&logoColor=white?color=red)
 ![Viber](https://img.shields.io/badge/+38_(096)_842_25_72-%8B66A9.svg?style=flat&logo=viber&logoColor=green)
 
+
+
+<a href="https://www.linkedin.com/in/alexander-veles" target="blank">![LinkedIn](https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white)</a>
+
 <img src="./assets/github-bg.jpg"/>
 
 ### I use in my progects:
