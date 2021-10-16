@@ -6,7 +6,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/alexander-veles" target="blank">![LinkedIn](https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white)</a>
+<a target="blank" href="https://www.linkedin.com/in/alexander-veles" >![LinkedIn](https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white)</a>
 
 <img src="./assets/github-bg.jpg"/>
 
