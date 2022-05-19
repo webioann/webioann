@@ -1,9 +1,6 @@
 ### Hi , i am Webioann , junior-strong React JS developer from Ukraine.
 ***
 [![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] <br/> <br/>
-
-<!-- <img src="./assets/github-bg.jpg"/> -->
-
 ### I use in my progects:
 >  React with Redux, JavaScript,SCSS<br/>
 >  librarys :  Redux, React-Router<br/>
@@ -14,15 +11,12 @@ my best projects<br/>
 
 &nbsp; [![Portfolio][4b]][4a]<br/>
 &nbsp; [![random_users][5b]][5a]
-
 ### Soft skills:
 >  hardworking <br/>
 >  plodding <br/>
 >  meticulous <br/>
 >  love studying <br/>
 ***
-
-
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)&nbsp;
@@ -41,9 +35,8 @@ my best projects<br/>
 ![gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)&nbsp;
 ![photoshop](https://img.shields.io/badge/adobephotoshop-green.svg?style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-<!--   DINAMIC IN REPOSITORY   -->
 ***
-![GitHub repo size][4] &nbsp;&nbsp;  ![GitHub watchers][5]
+![GitHub repo size][4] &nbsp;&nbsp;  ![GitHub watchers][5] <!--   DINAMIC IN REPOSITORY  -->
 <!------------- LINKS ---------------->
 [1]: https://www.linkedin.com/in/alexander-veles "view my LinkedIn"
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white
@@ -60,6 +53,9 @@ my best projects<br/>
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
 [5]: https://img.shields.io/github/watchers/webioann/webioann?color=red&logo=GitHub
 
+
+
+<!-- <img src="./assets/github-bg.jpg"/> -->
 
 
 
