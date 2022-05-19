@@ -5,10 +5,10 @@
 > `React with Redux-toolkit, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/>
 > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, mobile-first` <br/>
 > `webpack, git-hub, git, npm and yarn, VS code, photoshop`
-#### my best projects <br/>
+### my best projects <br/>
 &nbsp; [![Portfolio][4b]][4a]<br/>
 &nbsp; [![random_users][5b]][5a]
-#### soft skills : 
+### soft skills : 
 > `hardworking, meticulous, love studying, phlegmatic`
 ***
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)&nbsp;
