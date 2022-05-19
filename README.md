@@ -2,7 +2,7 @@
 ***
 [![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] 
 ### use in my progects :
-> `React with Redux-toolkit, hooks and custom hooks. JavaScript in ES-6+ syntaxis`.<br/>
+> `React with Redux-toolkit, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/>
 >
 >  `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, mobile-first` <br/>
 >
