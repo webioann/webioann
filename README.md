@@ -14,7 +14,8 @@
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)&nbsp;
-![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)&nbsp;
+![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=sass&logoColor=white)&nbsp;
+![less](https://img.shields.io/badge/LESS-%231572B6.svg?style=flat&logo=less&logoColor=white)&nbsp;
 ![webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)&nbsp;
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![git-hub](https://img.shields.io/badge/github-%23323330.svg?style=flat&logo=github&logoColor=white)&nbsp;
