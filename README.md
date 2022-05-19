@@ -1,8 +1,7 @@
 ### Hi , i am Webioann , junior-strong React JS developer from Ukraine.
 ***
-[![LinkedIn][1b]][1]&nbsp; &nbsp;  
-![Email][2b]&nbsp; &nbsp;
-![Viber][3b] <br/><br/>
+[![LinkedIn][1b]][1]&nbsp; &nbsp; ![Email][2b]&nbsp; &nbsp;![Viber][3b] <br/> 
+
 [![Portfolio][4b]][4a]<br/>
 [![random_users][5b]][5a]
 
