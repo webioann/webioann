@@ -25,15 +25,14 @@
 ![git-hub](https://img.shields.io/badge/github-%23323330.svg?style=flat&logo=github&logoColor=white)&nbsp;
 ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
-![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)&nbsp;
-
+![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)&nbsp; <br/>
 ![npm](https://img.shields.io/badge/NPM-%23323330.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![React Router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
+![markdown](https://img.shields.io/badge/markdown-%23E34F26.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
 ![gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)&nbsp;
-![photoshop](https://img.shields.io/badge/adobephotoshop-green.svg?style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![photoshop](https://img.shields.io/badge/photoshop-green.svg?style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ***
 ![GitHub repo size][4] &nbsp;&nbsp;  ![GitHub watchers][5] <!--   DINAMIC IN REPOSITORY  -->
 <!------------- LINKS ---------------->
