@@ -37,9 +37,9 @@
 ![GitHub repo size][4] &nbsp;&nbsp;  ![GitHub watchers][5] <!--   DINAMIC IN REPOSITORY  -->
 <!------------- LINKS ---------------->
 [1]: https://www.linkedin.com/in/alexander-veles "view my LinkedIn"
-[1b]: https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white
-[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%230077B5.svg?style=flat&logo=gmail&logoColor=white?color=red "my emaile"
-[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%8B66A9.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
+[1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
+[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow "my emaile"
+[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
 [4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
 [4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=red
