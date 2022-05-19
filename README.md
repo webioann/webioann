@@ -1,6 +1,6 @@
 ### Hi , i am Webioann , junior-strong React JS developer from Ukraine.
 ***
-[![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] <br/> <br/>
+[![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] 
 ### I use in my progects:
 >  React with Redux, JavaScript,SCSS<br/>
 >  librarys :  Redux, React-Router<br/>
