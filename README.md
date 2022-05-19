@@ -1,17 +1,16 @@
-### Hi , i am Webioann , junior-strong React JS developer from Ukraine.
+### Hi , i am Webioann , junior-strong React JS developer from Ukraine
 ***
 [![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] 
-### I use in my progects:
->  React with Redux, JavaScript,SCSS<br/>
->  librarys :  Redux, React-Router<br/>
->  React-hooks<br/>
+### I use in my progects :
+> React with Redux-toolkit, hooks and custom hooks. JavaScript in ES-6+ syntaxis.<br/>
+>  Preprocessors SASS and LESS, CSS-root, flex, grid, animation, mobile-first <br/>
+>  webpack, git-hub, git, npm and yarn, VS code, photoshop <br/>
 >  SASS , Bootstrap , own CSS-framework "Total"<br/>
 
-my best projects<br/>
-
+### my best projects <br/>
 &nbsp; [![Portfolio][4b]][4a]<br/>
 &nbsp; [![random_users][5b]][5a]
-### Soft skills:
+### Soft skills :
 >  hardworking <br/>
 >  plodding <br/>
 >  meticulous <br/>
@@ -28,7 +27,7 @@ my best projects<br/>
 ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
 
 ![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)&nbsp;
-![npm](https://img.shields.io/badge/NPM-%23323330.svg?style=flat&logo=npm&logoColor=white&nbsp;)
+![npm](https://img.shields.io/badge/NPM-%23323330.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![React Router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
