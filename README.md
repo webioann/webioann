@@ -9,7 +9,7 @@
 &nbsp; [![Portfolio][4b]][4a]<br/>
 &nbsp; [![random_users][5b]][5a]
 ### soft skills : 
-> `hardworking, plodding, meticulous, love studying`
+> `hardworking, meticulous, love studying, phlegmatic`
 ***
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
