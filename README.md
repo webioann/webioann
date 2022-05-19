@@ -2,20 +2,23 @@
 ***
 [![LinkedIn][1b]][1]
 ![Email][2b]
-![Viber][3b]
+![Viber][3b] <br/><br/>
+[![Portfolio][4b]][4a]<br/>
+[![random_users][5b]][5a]
 
 <!-- <img src="./assets/github-bg.jpg"/> -->
 
 ### I use in my progects:
-* React with Redux, JavaScript,SCSS
-* librarys :  Redux, React-Router
-* React-hooks
-* SASS , Bootstrap , own CSS-framework "Total"
+>  React with Redux, JavaScript,SCSS<br/>
+>  librarys :  Redux, React-Router<br/>
+>  React-hooks<br/>
+>  SASS , Bootstrap , own CSS-framework "Total"
 ### Soft skills:
 >  hardworking <br/>
 >  plodding <br/>
 >  meticulous <br/>
 >  love studying <br/>
+***
 
 
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)
@@ -38,16 +41,22 @@
 ![gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)
 ![photoshop](https://img.shields.io/badge/adobephotoshop-green.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+<!--   DINAMIC IN REPOSITORY   -->
 ***
 ![GitHub repo size][4]   ![GitHub watchers][5]
-
-
-
 <!------------- LINKS ---------------->
 [1]: https://www.linkedin.com/in/alexander-veles "view my LinkedIn"
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077B5.svg?style=flat&logo=linkedIn&logoColor=white
 [2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%230077B5.svg?style=flat&logo=gmail&logoColor=white?color=red "my emaile"
 [3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%8B66A9.svg?style=flat&logo=viber&logoColor=green "send me masage on Viber"
+<!-- ------------ PORTFOLIO LINKS ---------------------------------------->
+[4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
+[4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=<COLOR>
+<!-- ------------ RANDOM USERS LINKS ---------------------------------------->
+[5a]: https://webioann.github.io/random_users/ "visite random_users app"
+[5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users/&color=<COLOR>
+
+
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
 [5]: https://img.shields.io/github/watchers/webioann/webioann?color=red&logo=GitHub
 
