@@ -6,7 +6,7 @@
 > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/>
 > `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 ### my best projects <br/>
-&nbsp; [![cryptocurrency][6b]][6a]<br/>
+&nbsp; [![cryptocurrency][6b]][6a] [![cryptocurrency][6d]][6c]<br/>
 &nbsp; [![random_users][5b]][5a]<br/>
 &nbsp; [![Portfolio][4b]][4a]<br/>
 
@@ -44,6 +44,9 @@
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
 [6a]: https://cryptocurrency-cea64.web.app/ "visite cryptocurrency app"
 [6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
+
+[6c]: https://github.com/webioann/cryptocurrency "visite cryptocurrency app"
+[6d]: https://img.shields.io/static/v1?label=github&message=cryptocurrency&color=blue
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
