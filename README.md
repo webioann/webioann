@@ -34,7 +34,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ***
 ![GitHub repo size][4] &nbsp;&nbsp;  ![GitHub watchers][5] <!--   DINAMIC IN REPOSITORY  -->
-<!------------- LINKS ---------------->
+<!------------- LINKS ----------------------------------------------------------------------------------------------------->
 [1]: https://www.linkedin.com/in/alexander-veles "view my LinkedIn"
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
 [2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow "my emaile"
@@ -46,11 +46,11 @@
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
-[5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users/&color=orange
+[5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users/&color=gold
 
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
 [4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
-[4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=red
+[4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=gold
 
 
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
