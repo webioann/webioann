@@ -39,9 +39,10 @@
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
 [2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow "my emaile"
 [3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
+
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
 [6a]: https://cryptocurrency-cea64.web.app/ "visite cryptocurrency app"
-[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://webioann.github.io/cryptocurrency/&color=gold
+[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
