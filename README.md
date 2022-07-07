@@ -3,7 +3,7 @@
 [![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] 
 ### use in my progects :
 > `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/>
-> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, mobile-first` <br/>
+> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, mobile-first responsive design` <br/>
 > `Webpack, git-hub, git, npm and yarn, VS code, photoshop`
 ### my best projects <br/>
 &nbsp; [![cryptocurrency][6b]][6a]<br/>
@@ -41,7 +41,7 @@
 [3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
 [6a]: https://cryptocurrency-cea64.web.app/ "visite cryptocurrency app"
-[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://webioann.github.io/cryptocurrency/&color=wiolet
+[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://webioann.github.io/cryptocurrency/&color=violet
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
