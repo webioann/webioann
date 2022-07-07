@@ -6,14 +6,17 @@
 > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, mobile-first` <br/>
 > `webpack, git-hub, git, npm and yarn, VS code, photoshop`
 ### my best projects <br/>
+&nbsp; [![cryptocurrency][6b]][6a]<br/>
+&nbsp; [![random_users][5b]][5a]<br/>
 &nbsp; [![Portfolio][4b]][4a]<br/>
-&nbsp; [![random_users][5b]][5a]
+
 ### soft skills : 
 > `hardworking, meticulous, love studying, phlegmatic`
 ***
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)&nbsp;
+![typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=sass&logoColor=white)&nbsp;
 ![less](https://img.shields.io/badge/LESS-%231572B6.svg?style=flat&logo=less&logoColor=white)&nbsp;
 ![webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)&nbsp;
@@ -36,12 +39,17 @@
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
 [2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow "my emaile"
 [3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
-<!-- ------------ PORTFOLIO LINKS ---------------------------------------->
-[4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
-[4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=red
+<!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
+[6a]: https://cryptocurrency-cea64.web.app/ "visite cryptocurrency app"
+[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://webioann.github.io/cryptocurrency/&color=wiolet
+
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
 [5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users/&color=orange
+
+<!-- ------------ PORTFOLIO LINKS ---------------------------------------->
+[4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
+[4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=red
 
 
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
