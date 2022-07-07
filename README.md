@@ -2,9 +2,9 @@
 ***
 [![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] 
 ### use in my progects :
-> `React with Redux-toolkit, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/>
+> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/>
 > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, mobile-first` <br/>
-> `webpack, git-hub, git, npm and yarn, VS code, photoshop`
+> `Webpack, git-hub, git, npm and yarn, VS code, photoshop`
 ### my best projects <br/>
 &nbsp; [![cryptocurrency][6b]][6a]<br/>
 &nbsp; [![random_users][5b]][5a]<br/>
