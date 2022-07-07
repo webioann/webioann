@@ -20,9 +20,7 @@
 ![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=sass&logoColor=white)&nbsp;
 ![react-router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;
 ![webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)&nbsp;
-
 ![axios](https://img.shields.io/badge/axios-%231572B6.svg?style=flat&logo=axios&logoColor=black)&nbsp;
-
 ![less](https://img.shields.io/badge/LESS-%231572B6.svg?style=flat&logo=less&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![git-hub](https://img.shields.io/badge/github-%23323330.svg?style=flat&logo=github&logoColor=white)&nbsp;
