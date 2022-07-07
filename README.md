@@ -1,4 +1,4 @@
-### Hi , i am Webioann , junior-strong React JS developer from Ukraine
+### Hi , I am Webioann , junior-strong React JS developer from Ukraine.
 ***
 [![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] 
 ### use in my progects :
