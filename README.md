@@ -47,7 +47,7 @@
 
 [6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
 [6d]: https://github.com/webioann/cryptocurrency "view code cryptocurrency app"
-[6e]: https://img.shields.io/badge/%231572B6.svg?style=?style=for-the-badge&logo=bitcoin&logoColor=white 
+[6e]: https://img.shields.io/badge/%231572B6.svg?style=?style=for-the-badge&logo=Bitcoin&logoColor=white 
 
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
