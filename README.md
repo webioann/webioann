@@ -6,9 +6,9 @@
 > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/>
 > `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 ### my best projects <br/>
-&nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/><br/>
-&nbsp; [![random_users][5b]][5a]<br/>
-&nbsp; [![Portfolio][4b]][4a]<br/>
+&nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
+&nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
+&nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
 
 ### soft skills : 
 > `hardworking, meticulous, love studying, phlegmatic`
@@ -52,9 +52,15 @@
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
 [5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users/&color=gold
 
+[5c]: https://img.shields.io/badge/random_users-%23593d88.svg?style=?style=for-the-badge&logo=github&logoColor=white 
+[5d]: https://github.com/webioann/random_users "view code random_users app"
+
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
 [4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
 [4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=gold
+
+[4c]: https://img.shields.io/badge/portfolio-%23593d88.svg?style=?style=for-the-badge&logo=github&logoColor=white 
+[4d]: https://github.com/webioann/portfolio "view code portfolio app"
 
 
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
