@@ -46,7 +46,7 @@
 [6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
 
 [6c]: https://github.com/webioann/cryptocurrency "view code cryptocurrency app"
-[6d]: https://img.shields.io/static/v1?label=github&message=cryptocurrency&color=blue
+[6d]: https://img.shields.io/badge/github-%230077b5.svg?style=flat&logoColor=white
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
