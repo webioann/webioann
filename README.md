@@ -45,21 +45,21 @@
 [6a]: https://cryptocurrency-cea64.web.app/ "visite cryptocurrency app"
 [6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
 
-[6c]: https://img.shields.io/badge/cryptocurrency-%23593d88.svg?style=?style=for-the-badge&logo=github&logoColor=white 
+[6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
 [6d]: https://github.com/webioann/cryptocurrency "view code cryptocurrency app"
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 [5a]: https://webioann.github.io/random_users/ "visite random_users app"
 [5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users/&color=gold
 
-[5c]: https://img.shields.io/badge/random_users-%23593d88.svg?style=?style=for-the-badge&logo=github&logoColor=white 
+[5c]: https://img.shields.io/badge/random_users-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
 [5d]: https://github.com/webioann/random_users "view code random_users app"
 
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
 [4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
 [4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=gold
 
-[4c]: https://img.shields.io/badge/portfolio-%23593d88.svg?style=?style=for-the-badge&logo=github&logoColor=white 
+[4c]: https://img.shields.io/badge/portfolio-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
 [4d]: https://github.com/webioann/portfolio "view code portfolio app"
 
 
