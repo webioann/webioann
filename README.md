@@ -6,7 +6,7 @@
 > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/>
 > `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 ### my best projects <br/>
-&nbsp; [![cryptocurrency][6b]][6a] [![cryptocurrency][6d]][6c]<br/>
+&nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;[![cryptocurrency][6d]][6c]<br/>
 &nbsp; [![random_users][5b]][5a]<br/>
 &nbsp; [![Portfolio][4b]][4a]<br/>
 
