@@ -6,9 +6,9 @@
 > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/>
 > `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 ### my best projects <br/>
-&nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
-&nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
-&nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
+&nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
+&nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
+&nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
 
 ### soft skills : 
 > `hardworking, meticulous, love studying, phlegmatic`
@@ -43,7 +43,7 @@
 
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
 [6a]: https://cryptocurrency-cea64.firebaseapp.com/ "visite cryptocurrency app"
-[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
+[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.firebaseapp.com&color=gold
 
 [6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
 [6d]: https://github.com/webioann/cryptocurrency "view code cryptocurrency app"
