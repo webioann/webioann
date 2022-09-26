@@ -42,7 +42,7 @@
 [3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
 
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
-[6a]: https://cryptocurrency-cea64.web.app/ "visite cryptocurrency app"
+[6a]: https://cryptocurrency-cea64.firebaseapp.com/ "visite cryptocurrency app"
 [6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
 
 [6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
