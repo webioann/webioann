@@ -6,7 +6,7 @@
 
 ### use in my progects :
 
-> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> > `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
+> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 
 ### my best projects <br/>
 
@@ -25,7 +25,10 @@
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)&nbsp;
 ![typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=sass&logoColor=white)&nbsp;
+
 ![react-router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;
+![firebase](https://img.shields.io/badge/firebase-%23323330?style=flat&logo=Firebase&logoColor=#FFCA28)&nbsp;
+
 ![webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)&nbsp;
 ![axios](https://img.shields.io/badge/axios-%231572B6.svg?style=flat&logo=axios&logoColor=black)&nbsp;
 ![less](https://img.shields.io/badge/LESS-%231572B6.svg?style=flat&logo=less&logoColor=white)&nbsp;
