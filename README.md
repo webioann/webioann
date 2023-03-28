@@ -12,7 +12,7 @@
 
 &nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
 &nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
-&nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
+&nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
 
 ### soft skills :
 
