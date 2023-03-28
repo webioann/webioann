@@ -1,18 +1,25 @@
 ### Hi , I am Webioann , junior-strong React JS developer from Ukraine.
-***
-[![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b] 
+
+---
+
+[![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b]
+
 ### use in my progects :
-> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/>
-> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/>
-> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
+
+> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> > `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> > `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
+
 ### my best projects <br/>
+
 &nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
 &nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
 &nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
 
-### soft skills : 
+### soft skills :
+
 > `hardworking, meticulous, love studying, phlegmatic`
-***
+
+---
+
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)&nbsp;
@@ -33,46 +40,39 @@
 ![gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)&nbsp;
 ![photoshop](https://img.shields.io/badge/photoshop-green.svg?style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
 ![vs code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-***
-![GitHub repo size][4] &nbsp;&nbsp;  ![GitHub watchers][5] <!--   DINAMIC IN REPOSITORY  -->
+
+---
+
+![GitHub repo size][4] &nbsp;&nbsp; ![GitHub watchers][5] <!--   DINAMIC IN REPOSITORY  -->
+
 <!------------- LINKS ----------------------------------------------------------------------------------------------------->
-[1]: https://www.linkedin.com/in/alexander-veles "view my LinkedIn"
+
+[1]: https://www.linkedin.com/in/alexander-veles 'view my LinkedIn'
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
-[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow "my emaile"
-[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
+[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow 'my emaile'
+[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white 'send me masage on Viber'
 
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
-[6a]: https://cryptocurrency-cea64.firebaseapp.com/ "visite cryptocurrency app"
-[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.firebaseapp.com&color=gold
 
-[6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
-[6d]: https://github.com/webioann/cryptocurrency "view code cryptocurrency app"
+[6a]: https://ioanncryptovers.web.app// 'visite cryptocurrency app'
+[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app/&color=gold
+[6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
+[6d]: https://github.com/webioann/cryptocurrency 'view code cryptocurrency app'
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
-[5a]: https://webioann.github.io/random_users/ "visite random_users app"
-[5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users/&color=gold
 
-[5c]: https://img.shields.io/badge/random_users-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
-[5d]: https://github.com/webioann/random_users "view code random_users app"
+[5a]: https://webioann.github.io/random_users/ 'visite random_users app'
+[5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users&color=gold
+[5c]: https://img.shields.io/badge/random_users-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
+[5d]: https://github.com/webioann/random_users 'view code random_users app'
 
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
-[4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
+
+[4a]: https://webioann.github.io/portfolio/ 'visite my portfolio'
 [4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=gold
-
-[4c]: https://img.shields.io/badge/portfolio-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white 
-[4d]: https://github.com/webioann/portfolio "view code portfolio app"
-
-
+[4c]: https://img.shields.io/badge/portfolio-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
+[4d]: https://github.com/webioann/portfolio 'view code portfolio app'
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
 [5]: https://img.shields.io/github/watchers/webioann/webioann?color=red&logo=GitHub
 
-
-
 <!-- <img src="./assets/github-bg.jpg"/> -->
-
-
-
-
-
-
-
