@@ -58,7 +58,7 @@
 [6a]: https://ioanncryptovers.web.app// 'visite cryptocurrency app'
 [6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
 [6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[6d]: https://github.com/webioann/cryptocurrency 'view code cryptocurrency app'
+[6d]: https://github.com/webioann/cryptovers 'view code cryptocurrency app'
 
 <!-- ------------ NETFLIX CLONE LINKS ---------------------------------------->
 
