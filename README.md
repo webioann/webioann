@@ -2,7 +2,7 @@
 
 ---
 
-[![LinkedIn][1b]][1]&nbsp; &nbsp;![Email][2b]&nbsp; &nbsp;![Viber][3b]
+![Email][2b]&nbsp; &nbsp;![Viber][3b]
 
 ### use in my progects :
 
@@ -10,9 +10,10 @@
 
 ### my best projects <br/>
 
-&nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
-&nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
-&nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
+&nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
+&nbsp; [![netflix clone][7b]][7a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![netflix clone][7c]][7d]<br/>
+&nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
+&nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
 
 ### soft skills :
 
@@ -34,7 +35,7 @@
 ![git-hub](https://img.shields.io/badge/github-%23323330.svg?style=flat&logo=github&logoColor=white)&nbsp;
 ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
-![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)&nbsp; <br/>
+![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)&nbsp;
 ![npm](https://img.shields.io/badge/NPM-%23323330.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![markdown](https://img.shields.io/badge/markdown-%23E34F26.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
@@ -48,7 +49,6 @@
 
 <!------------- LINKS ----------------------------------------------------------------------------------------------------->
 
-[1]: https://www.linkedin.com/in/alexander-veles 'view my LinkedIn'
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
 [2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow 'my emaile'
 [3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white 'send me masage on Viber'
@@ -56,13 +56,20 @@
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
 
 [6a]: https://ioanncryptovers.web.app// 'visite cryptocurrency app'
-[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app/&color=gold
+[6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
 [6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
 [6d]: https://github.com/webioann/cryptocurrency 'view code cryptocurrency app'
 
+<!-- ------------ NETFLIX CLONE LINKS ---------------------------------------->
+
+[7a]: https://netflix-clone-7f556.web.app// 'visite netflix clone'
+[7b]: https://img.shields.io/static/v1?label=netflix_clone&message=https://netflix-clone-7f556.web.app&color=gold
+[7c]: https://img.shields.io/badge/netflix_clone-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
+[7d]: https://github.com/webioann/netflix-clone 'view code netflix clone app'
+
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 
-[5a]: https://webioann.github.io/random_users/ 'visite random_users app'
+[5a]: https://webioann.github.io/random_users// 'visite random_users app'
 [5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users&color=gold
 [5c]: https://img.shields.io/badge/random_users-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
 [5d]: https://github.com/webioann/random_users 'view code random_users app'
@@ -70,7 +77,7 @@
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
 
 [4a]: https://webioann.github.io/portfolio/ 'visite my portfolio'
-[4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio/&color=gold
+[4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio&color=gold
 [4c]: https://img.shields.io/badge/portfolio-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
 [4d]: https://github.com/webioann/portfolio 'view code portfolio app'
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
