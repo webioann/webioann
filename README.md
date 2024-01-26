@@ -1,12 +1,12 @@
-### Hi , I am Webioann , junior-strong React JS developer from Ukraine.
+### Hi, I am Webioann, a React JS and React-native developer from Ukraine.
 
 ---
 
 ![Email][2b]&nbsp; &nbsp;![Viber][3b]
 
-### use in my progects :
+### use in my projects :
 
-> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
+> `React, React-native with Redux and Typescript, React-router, Axios, hooks, and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 
 ### my best projects <br/>
 
@@ -50,8 +50,8 @@
 <!------------- LINKS ----------------------------------------------------------------------------------------------------->
 
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
-[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow 'my emaile'
-[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white 'send me masage on Viber'
+[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow 'my email'
+[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white 'send me massage on Viber'
 
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
 
@@ -62,7 +62,7 @@
 
 <!-- ------------ NETFLIX CLONE LINKS ---------------------------------------->
 
-[7a]: https://netflix-clone-7f556.web.app// 'visite netflix clone'
+[7a]: https://netflix-clone-7f556.web.app// 'visite Netflix clone'
 [7b]: https://img.shields.io/static/v1?label=netflix_clone&message=https://netflix-clone-7f556.web.app&color=gold
 [7c]: https://img.shields.io/badge/netflix_clone-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
 [7d]: https://github.com/webioann/netflix-clone 'view code netflix clone app'
