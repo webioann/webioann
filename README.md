@@ -4,9 +4,13 @@
 
 ![Email][2b]&nbsp; &nbsp;![Viber][3b]
 
-### use in my progects :
+### use in my React JS progects :
 
-> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
+> `React with Typescript, Redux-toolkit, Context API, React Router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase SDK, git-hub, git, npm and yarn, VS code, photoshop`
+
+### use in my React Native progects :
+
+> `React Native with Typescript, Context API, React Navigation, custom hooks. JavaScript in ES-6+ syntaxis.` <br/> `React Native CLI (not Expo), Firebase SDK, git-hub, git, npm and yarn`
 
 ### my best projects <br/>
 
