@@ -6,7 +6,7 @@
 
 ### use in my progects :
 
-> `React or React Native with Typescript, Redux, Context API, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
+> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 
 ### my best projects <br/>
 
