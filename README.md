@@ -1,4 +1,4 @@
-### Hi , I am Webioann , junior-strong React JS developer from Ukraine.
+### Hi , I am Webioann , React and React Native developer from Ukraine.
 
 ---
 
@@ -6,7 +6,7 @@
 
 ### use in my progects :
 
-> `React with Redux and Typescript, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
+> `React or React Native with Typescript, Redux, Context API, React-router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase, git-hub, git, npm and yarn, VS code, photoshop`
 
 ### my best projects <br/>
 
@@ -50,36 +50,36 @@
 <!------------- LINKS ----------------------------------------------------------------------------------------------------->
 
 [1b]: https://img.shields.io/badge/alexandr_veles-%230077b5.svg?style=flat&logo=linkedIn&logoColor=white
-[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow 'my emaile'
-[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white 'send me masage on Viber'
+[2b]: https://img.shields.io/badge/ioannn7777@gmail.com-%23E34F26.svg?style=flat&logo=gmail&logoColor=red&color=yellow "my emaile"
+[3b]: https://img.shields.io/badge/+38_(096)_842_25_72-%23593d88.svg?style=?style=for-the-badge&logo=viber&logoColor=white "send me masage on Viber"
 
 <!-- ------------ CRYPTOCURRENCY LINKS ---------------------------------------->
 
-[6a]: https://ioanncryptovers.web.app// 'visite cryptocurrency app'
+[6a]: https://ioanncryptovers.web.app// "visite cryptocurrency app"
 [6b]: https://img.shields.io/static/v1?label=cryptocurrency&message=https://cryptocurrency-cea64.web.app&color=gold
 [6c]: https://img.shields.io/badge/cryptocurrency-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[6d]: https://github.com/webioann/cryptovers 'view code cryptocurrency app'
+[6d]: https://github.com/webioann/cryptovers "view code cryptocurrency app"
 
 <!-- ------------ NETFLIX CLONE LINKS ---------------------------------------->
 
-[7a]: https://netflix-clone-7f556.web.app// 'visite netflix clone'
+[7a]: https://netflix-clone-7f556.web.app// "visite netflix clone"
 [7b]: https://img.shields.io/static/v1?label=netflix_clone&message=https://netflix-clone-7f556.web.app&color=gold
 [7c]: https://img.shields.io/badge/netflix_clone-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[7d]: https://github.com/webioann/netflix-clone 'view code netflix clone app'
+[7d]: https://github.com/webioann/netflix-clone "view code netflix clone app"
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 
-[5a]: https://webioann.github.io/random_users// 'visite random_users app'
+[5a]: https://webioann.github.io/random_users// "visite random_users app"
 [5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users&color=gold
 [5c]: https://img.shields.io/badge/random_users-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[5d]: https://github.com/webioann/random_users 'view code random_users app'
+[5d]: https://github.com/webioann/random_users "view code random_users app"
 
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
 
-[4a]: https://webioann.github.io/portfolio/ 'visite my portfolio'
+[4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
 [4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio&color=gold
 [4c]: https://img.shields.io/badge/portfolio-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[4d]: https://github.com/webioann/portfolio 'view code portfolio app'
+[4d]: https://github.com/webioann/portfolio "view code portfolio app"
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
 [5]: https://img.shields.io/github/watchers/webioann/webioann?color=red&logo=GitHub
 
