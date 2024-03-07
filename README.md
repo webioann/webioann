@@ -8,16 +8,20 @@
 
 > `React with Typescript, Redux-toolkit, Context API, React Router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase SDK, git-hub, git, npm and yarn, VS code, photoshop`
 
-### use in my React Native progects :
-
-> `React Native with Typescript, Context API, React Navigation, custom hooks. JavaScript in ES-6+ syntaxis.` <br/> `React Native CLI (not Expo), Firebase SDK, git-hub, git, npm and yarn`
-
-### my best projects <br/>
+### my best React JS projects <br/>
 
 &nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
 &nbsp; [![netflix clone][7b]][7a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![netflix clone][7c]][7d]<br/>
 &nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
 &nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
+
+### use in my React Native progects :
+
+> `React Native with Typescript, Context API, React Navigation, custom hooks. JavaScript in ES-6+ syntaxis.` <br/> `React Native CLI (not Expo), Firebase SDK, git-hub, git, npm and yarn`
+
+### my first React Native petproject <br/>
+
+[![portfolio][8c]][8d]<br/>
 
 ### soft skills :
 
@@ -66,25 +70,28 @@
 
 <!-- ------------ NETFLIX CLONE LINKS ---------------------------------------->
 
-[7a]: https://petnetflix-faa67.web.app// "visite netflix clone"
+[7a]: https://petnetflix-faa67.web.app// "visite Netflix clone"
 [7b]: https://img.shields.io/static/v1?label=petnetflix&message=https://petnetflix-faa67.web.app&color=gold
 [7c]: https://img.shields.io/badge/petnetflix-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[7d]: https://github.com/webioann/petnetflix "view code netflix clone app"
+[7d]: https://github.com/webioann/petnetflix "view code Netflix clone app"
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 
 [5a]: https://webioann.github.io/random_users// "visite random_users app"
 [5b]: https://img.shields.io/static/v1?label=random_users&message=https://webioann.github.io/random_users&color=gold
 [5c]: https://img.shields.io/badge/random_users-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[5d]: https://github.com/webioann/random_users "view code random_users app"
+[5d]: https://github.com/webioann/random_users "view code Random_users app"
 
 <!-- ------------ PORTFOLIO LINKS ---------------------------------------->
 
 [4a]: https://webioann.github.io/portfolio/ "visite my portfolio"
 [4b]: https://img.shields.io/static/v1?label=portfolio&message=https://webioann.github.io/portfolio&color=gold
 [4c]: https://img.shields.io/badge/portfolio-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[4d]: https://github.com/webioann/portfolio "view code portfolio app"
+[4d]: https://github.com/webioann/portfolio "view code Portfolio app"
 [4]: https://img.shields.io/github/repo-size/webioann/webioann?color=red&logo=GitHub
 [5]: https://img.shields.io/github/watchers/webioann/webioann?color=red&logo=GitHub
 
-<!-- <img src="./assets/github-bg.jpg"/> -->
+<!-- ------------ PORTFOLIO LINKS ---------------------------------------->
+
+[8c]: https://img.shields.io/badge/messenger-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
+[8d]: https://github.com/webioann/messenger "view code Messenger app"
