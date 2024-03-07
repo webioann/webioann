@@ -15,6 +15,8 @@
 &nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
 &nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
 
+---
+
 ### use in my React Native progects :
 
 > `React Native with Typescript, Context API, React Navigation, custom hooks. JavaScript in ES-6+ syntaxis.` <br/> `React Native CLI (not Expo), Firebase SDK, git-hub, git, npm and yarn`
@@ -22,6 +24,8 @@
 ### my first React Native petproject <br/>
 
 [![portfolio][8c]][8d]<br/>
+
+---
 
 ### soft skills :
 
