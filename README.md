@@ -15,7 +15,7 @@
 ### my best projects <br/>
 
 &nbsp; [![cryptocurrency][6b]][6a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![cryptocurrency][6c]][6d]<br/>
-&nbsp; [![netflix clone][7b]][7a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![netflix clone][7c]][7d]<br/>
+&nbsp; [![netflix clone][7b]][7a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![netflix clone][7c]][7d]<br/>
 &nbsp; [![random_users][5b]][5a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![random_users][5c]][5d]<br/>
 &nbsp; [![Portfolio][4b]][4a]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![portfolio][4c]][4d]<br/>
 
@@ -66,10 +66,10 @@
 
 <!-- ------------ NETFLIX CLONE LINKS ---------------------------------------->
 
-[7a]: https://netflix-clone-7f556.web.app// "visite netflix clone"
-[7b]: https://img.shields.io/static/v1?label=netflix_clone&message=https://netflix-clone-7f556.web.app&color=gold
-[7c]: https://img.shields.io/badge/netflix_clone-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
-[7d]: https://github.com/webioann/netflix-clone "view code netflix clone app"
+[7a]: https://petnetflix-faa67.web.app// "visite netflix clone"
+[7b]: https://img.shields.io/static/v1?label=petnetflix&message=https://petnetflix-faa67.web.app&color=gold
+[7c]: https://img.shields.io/badge/petnetflix-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
+[7d]: https://github.com/webioann/petnetflix "view code netflix clone app"
 
 <!-- ------------ RANDOM USERS LINKS ---------------------------------------->
 
