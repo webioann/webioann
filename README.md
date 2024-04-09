@@ -34,9 +34,10 @@
 ---
 
 ![react](https://img.shields.io/badge/react-blue.svg?style=flat&logo=react&logoColor=white)&nbsp;
+![next](https://img.shields.io/badge/next-green.svg?style=flat&logo=react&logoColor=red)&nbsp;
+![typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)&nbsp;
-![typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![sass](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=sass&logoColor=white)&nbsp;
 ![react-router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;
 ![firebase](https://img.shields.io/badge/firebase-%23323330?style=flat&logo=Firebase&logoColor=#FFCA28)&nbsp;
