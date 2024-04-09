@@ -1,4 +1,4 @@
-### Hi , I am Webioann , React and React Native developer from Ukraine.
+### Hi , I am Webioann, React, Next and React Native developer from Ukraine.
 
 ---
 
@@ -6,7 +6,7 @@
 
 ### use in my React JS progects :
 
-> `React with Typescript, Redux-toolkit, Context API, React Router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase SDK, git-hub, git, npm and yarn, VS code, photoshop`
+> `React and Next JS with Typescript, Redux-toolkit, Context API, React Router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase SDK, git-hub, git, npm and yarn, VS code, photoshop`
 
 ### my best React JS projects <br/>
 
@@ -74,7 +74,7 @@
 
 <!-- ------------ NETFLIX CLONE LINKS ---------------------------------------->
 
-[7a]: https://petnetflix-faa67.web.app// "visite Netflix clone"
+[7a]: https://petnetflix.vercel.app// "visite Netflix clone"
 [7b]: https://img.shields.io/static/v1?label=petnetflix&message=https://petnetflix-faa67.web.app&color=gold
 [7c]: https://img.shields.io/badge/petnetflix-%231572B6.svg?style=?style=for-the-badge&logo=github&logoColor=white
 [7d]: https://github.com/webioann/petnetflix "view code Netflix clone app"
