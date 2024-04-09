@@ -4,7 +4,7 @@
 
 ![Email][2b]&nbsp; &nbsp;![Viber][3b]
 
-### use in my React JS progects :
+### use in my projects :
 
 > `React and Next JS with Typescript, Redux-toolkit, Context API, React Router, axios, hooks and custom hooks. JavaScript in ES-6+ syntaxis.`<br/> `Preprocessors SASS and LESS, CSS-root, flex, grid, animation, responsive design` <br/> `Webpack, Firebase SDK, git-hub, git, npm and yarn, VS code, photoshop`
 
